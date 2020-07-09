@@ -1,4 +1,4 @@
-MLP for Phoneme Recognition
+## MLP for Phoneme Recognition
 
 - <b>Part1</b>
 Numpy implementation of activation functions, loss functions, batch normalization, forward pass and backward pass, just like Pytorch does.
