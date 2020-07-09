@@ -1,5 +1,5 @@
 # Deep-Learning-Projects
-Projects about Speaking Identification, Speech Recognition, my own Pytorch library implementation
+Projects about Speaker Identification, Speech Recognition, my own Pytorch library implementation
 
 
 ## Table of Contents
