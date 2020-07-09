@@ -16,7 +16,7 @@ The job is to identify the phoneme state label for each frame in the test datase
 ## CNN Numpy Implementation | CNN for Face Recognition and Verification
 
 - <b>Part1</b>
-Numpy implementation of Convolutional Neural Networks libraries.
+Numpy implementation of Convolutional Neural Networks libraries like Pytorch does
 
 - <b>Part2</b>
 Face Classification and Verification using Convolutional Neural Networks.
