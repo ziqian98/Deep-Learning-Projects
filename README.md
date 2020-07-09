@@ -1,9 +1,8 @@
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
-- [1 MLP for Phoneme Recognition]
-- [2 CNN for Face Recognition and Verification]
-- [3 RNN for Forward/Backword/CTC Beamsearch | Connectionist Temporal Classification]
-- [4 Word-level Neural Language Models by RNNs | Attention-based End-to-End Speech Recognition System]
+- MLP for Phoneme Recognition
+- CNN for Face Recognition and Verification
+- RNN for Forward/Backword/CTC Beamsearch | Connectionist Temporal Classification
+- Word-level Neural Language Models by RNNs | Attention-based End-to-End Speech Recognition System
 
 ## MLP for Phoneme Recognition
 
