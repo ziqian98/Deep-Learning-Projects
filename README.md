@@ -1,6 +1,6 @@
 ## Table of Contents
-- MLP for Phoneme Recognition
-- CNN for Face Recognition and Verification
+- MLP Numpy Implementation | MLP for Phoneme Recognition
+- CNN Numpy Implementation | CNN for Face Recognition and Verification
 - RNN for Forward/Backword/CTC Beamsearch | Connectionist Temporal Classification
 - Word-level Neural Language Models by RNNs | Attention-based End-to-End Speech Recognition System
 ## MLP for Phoneme Recognition
