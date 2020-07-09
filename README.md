@@ -3,7 +3,7 @@
 - CNN Numpy Implementation | CNN for Face Recognition and Verification
 - RNN for Forward/Backword/CTC Beamsearch | Connectionist Temporal Classification
 - Word-level Neural Language Models by RNNs | Attention-based End-to-End Speech Recognition System
-## MLP for Phoneme Recognition
+##  MLP Numpy Implementation | MLP for Phoneme Recognition
 
 - <b>Part1</b>
 Numpy implementation of activation functions, loss functions, batch normalization, forward pass and backward pass, just like Pytorch does.
@@ -13,7 +13,7 @@ Frame level classification of speech. Using knowledge of feedforward neural netw
 The job is to identify the phoneme state label for each frame in the test dataset. It is important to note that utterances are of variable length.
 
 
-## CNN for Face Recognition and Verification
+## CNN Numpy Implementation | CNN for Face Recognition and Verification
 
 - <b>Part1</b>
 Numpy implementation of Convolutional Neural Networks libraries.
